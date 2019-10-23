@@ -1,0 +1,190 @@
+	#textosobre{
+	
+		font-size: 30px;
+		color: #836FFF;
+		border: solid;
+		border-color: black;
+		border-width: 2px;
+		Text-Align: center;
+		font-style: inherit;
+		letter-spacing: 3px;
+	}
+
+	#header {
+	font-size: 30px;
+	color: white	;
+	}
+
+
+	.home {
+	background-image: url("maria.jpg");
+	background-size: cover;
+	}
+
+	.subtitulo{
+	font-size: 50px;
+	color: #8B795E;
+	letter-spacing: 5px;
+	margin-left: 340px;
+	margin-top: 100px;
+	text-align: center;	
+	}
+	.mapa {
+		margin-left: 700px;
+		position: absolute;
+	}
+
+
+	.corrente{
+	font-size: 30px;
+	color: black;
+	text-decoration:none;
+	font-style: serif;
+	
+	}
+	.corrente2{
+	font-size: 30px;
+	color: white;
+	text-decoration:none;
+	font-style: serif;
+	
+	}
+	
+	.rodape{
+		font-size: 30px;
+		text-align: center;
+	}
+	
+	.sobre{
+	font-size: 30px;
+	color: #2E8B57;
+	font-family: Monospace;
+	font-weight: bold;
+	background-image: url("sobre.jpg");
+	background-size: cover;
+	
+	}
+	.voltar{
+	font-size: 35px;
+	color: white;
+	Text-Align: center;
+	}
+	
+	.receitas{
+	font-size: 40px;
+	color: #2E8B57;
+	Text-Align: center;
+	width: 350px;
+	margin-left: 20 px;
+	font-style: italic;
+	letter-spacing: 3px;
+	}
+	.ingredientes{
+	font-size: 40px;
+	color: Black;
+	}
+	
+	.titulo{
+	font-size: 30px;
+	color: black;
+	font-family: Arial, Helvetica, sans-serif;
+	}
+	
+	.fundao {
+	background-image: url("receitas.jpg");
+	background-size: cover;
+	}
+
+	.pacu {
+		background-image: url("pacu.jpg");
+	background-size: cover;
+	}
+
+	.pintado{
+		background-image: url("pintado.jpg");
+	background-size: cover;
+	}
+
+	.contato{
+		background-image: url("contato.jpg");
+		background-size: 80%;		
+	}
+
+	.entre {
+
+	font-size: 80px;
+	color: white;
+	text-decoration: underline;
+	text-decoration-color: black;
+	 text-decoration-style: solid;
+	font-style: italic;
+	letter-spacing: 3px;
+	}
+
+	.cont{
+		font-size: 30px;
+	color: #B8860B;
+	}
+
+	.telefone{
+
+	font-size: 40px;
+	color: white;  
+	font-style: italic;
+	letter-spacing: 3px;
+	Text-Align: center;
+	}	
+		h1.titulo {
+	font-size: 100px;
+	color: #C1CDCD;
+	width: 450px;
+	text-align: center;
+	margin-left: 540px;
+	font-style: italic;
+	font-family: serif;
+	letter-spacing: 3px;
+	}
+	p.sobre{
+	
+		font-size: 30px;
+		color: #2E8B57;
+		Text-Align: center;
+		font-style: italic;
+		letter-spacing: 3px;
+	}
+	h3{
+		font-size: 70px;
+		color: #C1CDCD;
+		font-style: italic;
+		letter-spacing: 3px;
+
+ul{
+display: block;
+  margin: 0;
+  padding: 0;
+  width: auto;
+  overflow: 100%;
+}
+ul li {display: inline-block;}
+ul li:hover {background: #555;}
+ul li:hover ul {display: block;}
+ul li ul {
+  	position: absolute;
+  	width: 200px;
+  	display: none;
+}
+ul li ul li { 
+  background: #555; 
+  display: block; 
+}
+ul li ul li a {display:inline;} 
+ul li ul li:hover {background: #666;}
+
+h5:hover {
+  background-color: #666;
+  cursor: pointer;
+  opacity: 0.7;
+
+
+}
+li h5 {display:inline;}
